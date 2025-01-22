@@ -29,6 +29,12 @@ a {
   height: 100px;
   width: 300px;
 }
+
+.p1 {
+  font-style: serif fonts;
+  font-size: medium;
+  text-align: center;
+}
 .images {
   border: 2px solid;
   border: radius 13px;
