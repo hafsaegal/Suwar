@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  background-color: black;
+  background-image: img src= "./images/logo.png" alt= "logo";
+  color: white;
+  height: 40px;
+  align-items: center;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  gap: 5rem;
+  padding: 10px 15px;
+}
+
+a {
+  color: white;
+}
+
+.logo {
+  width: 100px;
+}
+.My Introduction{
+    height: 100px;
+    width 300px
+}
+.images{
+    border: 3px solid;
+    
+}
+.images:hover{
+    border: 3px solid;
+
+}
