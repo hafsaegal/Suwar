@@ -76,3 +76,8 @@ header {
   margin-bottom: auto;
   display: flex;
 }
+.contact-form {
+  align-content: end;
+  padding-bottom: 10px;
+  margin-left: 20px;
+}
