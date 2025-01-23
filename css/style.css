@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 header {
   background-color: black;
   background-image: img src= "./images/logo.png" alt= "logo";
@@ -37,26 +38,21 @@ a {
 }
 .images {
   border: 2px solid;
-  border: radius 13px;
+  border-radius: 5px;
   box-shadow: 4px 7px 7px 0px;
-  cursor: pointer;
-  margin: 10px;
-  transition: 400ms;
-}
-.images:hover {
-  filter: grayscale(1);
-  transform: scale(1);
 }
 .img2 {
   border-radius: 1px;
   border-style: groove;
 }
 .img4 {
-  max-height: fit-content;
+  max-height: max-content;
+  filter: grayscale(100%);
 }
 
 .Bio {
   text-align: center;
+  padding-top: 15px;
 }
 
 .bioimg {
@@ -64,4 +60,20 @@ a {
   height: 5%;
   filter: grayscale(100%);
   float: left;
+}
+
+.Biography {
+  font-style: italic;
+  padding-top: 30px;
+  font-size: large;
+}
+
+.footer {
+  margin-top: 30px;
+  border-top: 3px solid #333;
+  padding: top 20px;
+  align-text: center;
+  padding: 30px;
+  margin-bottom: auto;
+  display: flex;
 }
