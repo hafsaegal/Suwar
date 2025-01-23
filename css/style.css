@@ -54,3 +54,14 @@ a {
 .img4 {
   max-height: fit-content;
 }
+
+.Bio {
+  text-align: center;
+}
+
+.bioimg {
+  width: 20%;
+  height: 5%;
+  filter: grayscale(100%);
+  float: left;
+}

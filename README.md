@@ -14,6 +14,6 @@ Welcome to Suwar, a website were i collect elegent and striking black and white 
 
 html,css
 
-##### copyright
+#### copyright
 
 Hafsa Egal
