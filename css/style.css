@@ -11,17 +11,22 @@ header {
   height: 40px;
   align-items: center;
 }
-nav ul {
+.navbar {
   list-style: none;
   display: flex;
   justify-content: flex-end;
   gap: 5rem;
   padding: 10px 15px;
 }
-
-a {
+.navbar a:hoover {
+  color: yellow;
+  transform: scale(1.1);
   color: white;
+  transition: colour 0.3s ease, transform 0.3s ease;
 }
+.navbar a:hover {
+  color: yellow;
+  transform: scale(1.1);
 
 .logo {
   width: 100px;
