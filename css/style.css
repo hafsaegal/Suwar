@@ -23,10 +23,6 @@ header {
   color: white;
   transition: colour 0.3s ease, transform 0.3s ease;
 }
-.navbar a {
-  colour: white;
-  list-style: none;
-}
 
 .logo {
   width: 100px;
