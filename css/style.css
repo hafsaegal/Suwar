@@ -24,9 +24,10 @@ header {
   transition: colour 0.3s ease, transform 0.3s ease;
 }
 .navbar a {
-  colour : white;
-  }
+  colour: white;
+  list-style: none;
 }
+
 .logo {
   width: 100px;
 }
@@ -79,6 +80,7 @@ header {
   padding: 30px;
   margin-bottom: auto;
   display: flex;
+  color: black;
 }
 .contact-form {
   align-content: end;
