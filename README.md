@@ -14,6 +14,14 @@ Welcome to Suwar, a website were i collect elegent and striking black and white 
 
 html,css
 
+#### links
+
+https://github.com/hafsaegal/Suwar
+
+#### Figma link
+
+https://www.figma.com/design/hhKx2cIdTqzA8gak5pZCVL/Untitled?node-id=0-1&p=f&t=aPxtSG9EzN8ZdqJm-0
+
 #### copyright
 
 Hafsa Egal
